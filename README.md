@@ -1,7 +1,7 @@
 - 👋 Hi, I’m onajomo Faith
-- 👀 I’m interested in 
+- 👀 I’m interested in -Data Analysis
 - 🌱 I’m currently learning python on jupyter notebook
-- 💞️ I’m looking to collaborate on anything related to data analytics
+- 💞️ I’m looking to collaborate on PowerBi,My Sql and Python
 - 📫 How to reach me onajomofaith07@gmail.com
 - 😄 Pronouns:  Her
 - ⚡ Fun fact: I love  travelling and exploring
